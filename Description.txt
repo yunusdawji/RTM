@@ -1,0 +1,4 @@
+This is a project over summer. 
+Its a retial managment system which has a java gui and is connected to sql server.
+A user can add stock and can sell the stock and it prints an automatically generated invoice.
+You can also view daily reports, montly reports, current available stock. 

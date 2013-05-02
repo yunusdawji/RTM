@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dsDataAdapter class="net.sf.jasperreports.data.ds.DataSourceDataAdapterImpl"><name>New Data Adapter 1</name><factoryClass></factoryClass><methodToCall>createDataSource()</methodToCall><classpath>C:\Users\naznin\workspace\tryone.jar</classpath></dsDataAdapter>
